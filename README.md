@@ -1,215 +1,298 @@
-# 🚀 Pham Thuy
+# Phạm Thuỵ
 
+```text
+██████╗ ██╗  ██╗ █████╗ ███╗   ███╗    ████████╗██╗  ██╗██╗   ██╗██╗   ██╗
+██╔══██╗██║  ██║██╔══██╗████╗ ████║    ╚══██╔══╝██║  ██║╚██╗ ██╔╝╚██╗ ██╔╝
+██████╔╝███████║███████║██╔████╔██║       ██║   ███████║ ╚████╔╝  ╚████╔╝
+██╔═══╝ ██╔══██║██╔══██║██║╚██╔╝██║       ██║   ██╔══██║  ╚██╔╝    ╚██╔╝
+██║     ██║  ██║██║  ██║██║ ╚═╝ ██║       ██║   ██║  ██║   ██║      ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝       ╚═╝   ╚═╝  ╚═╝   ╚═╝      ╚═╝
 ```
-█████████ ██ █████████  ██████████ ███████   ██████████ ██████████ ██    ██
-██     ██ ██ ██        ██    ██    ██     ██ ██           ██        ███   ██
-██     ██ ██ ██        ██    ██    ██     ██ ██           ██        ████  ██
-█████████ ██ █████████ ██    ██    ███████  ██████████    ██        ██ ██ ██
-██        ██        ██ ██    ██    ██       ██           ██        ██  ████
-██        ██ █████████ ██    ██    ██       ██████████ ██████████ ██   ███
-```
 
-## Full-Stack Developer | Messaging Platform Engineer | Bot Creator
+### Data Analyst | BI Developer | Data Automation
 
-> *Coffee in, code out. Sometimes features, sometimes chaos.* ☕💻
+> Turning raw data into insights, dashboards, and automated reporting systems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=PhamThuy1410&color=00FF00&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=PhamThuy1410\&color=0e75b6\&style=flat)](https://github.com/PhamThuy1410)
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm a passionate **Full-Stack Developer** specializing in:
-- 💬 **Unified Messaging Platforms** - Bringing Zalo, Messenger, Telegram into one inbox
-- 🤖 **Intelligent Bot Development** - Automation that actually works
-- 📱 **iOS Development** - Building smooth mobile experiences
-- 🔧 **System Architecture** - Designing scalable solutions
+I'm a **Data Analyst** focused on transforming business data into actionable insights and reliable reporting systems.
 
-**Location:** Vietnam 🇻🇳  
-**Focus:** Building tools that simplify communication
+My work sits at the intersection of:
+
+* 📊 **Data Analysis & Business Intelligence**
+* 🧮 **SQL & Data Modeling**
+* 🐍 **Python & Data Automation**
+* 📈 **Dashboard & KPI Reporting**
+* ⚙️ **ETL / Data Processing**
+* 🤖 **AI-assisted Data Applications**
+
+I enjoy building systems that don't just answer *"What happened?"*, but also make it easier to understand **why it happened and what should happen next**.
+
+**Location:** Vietnam 🇻🇳
+**Focus:** Data Analytics · BI · Automation · AI
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Core Technologies
+### Data & Analytics
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=databricks\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+
+### BI & Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square\&logo=tableau\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square\&logo=duckdb\&logoColor=black)
+
+### Data Tools & Engineering
+
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square\&logo=metabase\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+---
+
+## 📊 What I Work With
+
+```text
+Business Data
+     │
+     ▼
+┌─────────────────┐
+│   SQL / ETL     │
+│ Data Extraction │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Python / Pandas │
+│ Data Processing │
+│   Automation    │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Data Modeling   │
+│ KPI Calculation │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Power BI /      │
+│ Tableau / Excel │
+└────────┬────────┘
+         │
+         ▼
+   Business Insight
 ```
-Backend:      Node.js • Python • Express • FastAPI
-Frontend:     JavaScript • React • HTML/CSS
-Database:     MongoDB • PostgreSQL
-Mobile:       iOS • JavaScript
-Tools:        Git • Docker • AWS
-```
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
-### 💬 **MessHub** - Unified Messaging Platform
-> Multi-channel communication made simple
+### 📊 KPI Reporting Automation
 
-A comprehensive solution integrating **Zalo, Messenger, Telegram** and other chat platforms into a single, unified inbox.
+> Automated monthly KPI reporting from raw transactional data.
 
-**What it does:**
-- 🔄 Real-time message synchronization across multiple platforms
-- 👥 Unified contact management
-- 📲 Smart notifications and routing
-- 🔐 Secure end-to-end communication
+A data pipeline designed to reduce repetitive manual reporting and generate standardized reports for different regions and business units.
 
-**Tech:** JavaScript • Node.js • MongoDB • WebSocket  
-🔗 [View Repository](https://github.com/PhamThuy1410/MessHub)
+**Highlights**
+
+* SQL-based data extraction
+* Python/Pandas data transformation
+* Dynamic KPI calculations
+* Daily revenue aggregation
+* Employee & regional performance analysis
+* Automated Excel report generation
+* Region-specific report distribution
+
+**Stack:** Python · Pandas · SQL Server · Excel
 
 ---
 
-### 🤖 **Shopee Affiliate Bot** - Zalo Automation
-> Automated affiliate marketing through Zalo
+### 🤖 AI Data Analyst
 
-Intelligent bot automating Shopee affiliate tasks directly through Zalo, streamlining the entire workflow.
+> An AI-powered interface for querying business data and generating insights.
 
-**Features:**
-- 🛍️ Shopee API integration
-- 💬 Zalo Bot framework
-- 📊 Analytics & tracking
-- ⚡ Real-time response handling
+An experimental analytics assistant combining LLM capabilities with structured business data to make reporting and data exploration more accessible.
 
-**Tech:** Python • Zalo API • Shopee API  
+**Highlights**
+
+* Natural-language data queries
+* Business KPI analysis
+* SQL-based data retrieval
+* Automated insight generation
+* Interactive data visualization
+
+**Stack:** Python · SQL · Gemini · Streamlit · Power BI
+
+---
+
+### 📈 Sales & Inventory Reporting
+
+> Business intelligence system for monitoring sales performance and operational KPIs.
+
+Built reporting workflows around transactional and operational datasets to support recurring management reporting.
+
+**Focus Areas**
+
+* Revenue analysis
+* Sales performance
+* Customer analysis
+* Regional performance
+* Daily / monthly KPI tracking
+* Data quality validation
+
+**Stack:** SQL · Python · Power BI · Tableau · Metabase
+
+---
+
+### 🛍️ Shopee Affiliate Automation
+
+> Python automation system for affiliate workflows and data tracking.
+
+A practical automation project combining API integration, data processing, and messaging workflows.
+
+**Stack:** Python · API · Data Processing · Automation
+
 🔗 [View Repository](https://github.com/PhamThuy1410/Shopee-Affiliate-Bot)
 
 ---
 
-### 🎵 **Underground Tape** - Music Discovery Platform
-> For the love of underground music
+## 📐 Analytics Skills
 
-A creative platform for discovering, sharing, and exploring underground music. Versions evolved through V1 to V2.
-
-**Versions:**
-- V1: Initial platform architecture
-- V2: Enhanced UI/UX and features
-
-**Tech:** JavaScript • React • Node.js  
-🔗 [V1](https://github.com/PhamThuy1410/underground-tape) | [V2](https://github.com/PhamThuy1410/underground-tape-v2)
-
----
-
-### 📍 **iOS Location Spoofer** - GPS Masking Tool
-> Standalone iOS app for location spoofing without jailbreak
-
-Advanced tool for spoofing GPS location seamlessly on iOS devices.
-
-**Capabilities:**
-- ✅ No jailbreak required
-- 🔌 Shadowrocket/Surge/Loon/QX/Stash module support
-- 🎯 Precise location control
-- ⚙️ Standalone app architecture
-
-**Tech:** JavaScript • iOS Native  
-🔗 [View Repository](https://github.com/PhamThuy1410/ios-location-spoofer)
+| Area              | Skills                                                             |
+| ----------------- | ------------------------------------------------------------------ |
+| **SQL**           | Complex Queries, CTE, Window Functions, Aggregation, Dynamic SQL   |
+| **Data Analysis** | EDA, KPI Analysis, Trend Analysis, Segmentation                    |
+| **Python**        | Pandas, NumPy, Automation, Data Processing                         |
+| **BI**            | Power BI, Tableau, Metabase                                        |
+| **Excel**         | Pivot Tables, Power Query, Advanced Formulas, Automated Reporting  |
+| **Data Modeling** | Fact / Dimension Modeling, KPI Models                              |
+| **Databases**     | SQL Server, MySQL, PostgreSQL, DuckDB                              |
+| **Automation**    | ETL Pipelines, Scheduled Reports, Excel Automation                 |
+| **AI**            | LLM Applications, AI-assisted Analytics, Natural Language Querying |
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 How I Approach Data
+
+```text
+     Business Question
+            │
+            ▼
+     Understand Context
+            │
+            ▼
+       Explore Data
+            │
+            ▼
+      Validate Quality
+            │
+            ▼
+      Analyze & Model
+            │
+            ▼
+      Build Dashboard
+            │
+            ▼
+       Communicate
+        Insights
+```
+
+My goal is not simply to produce numbers.
+
+I focus on building **reliable, reproducible, and useful analytical workflows** that connect data with business decisions.
+
+---
+
+## 🔭 Currently Exploring
+
+* 📊 Advanced Power BI & DAX
+* 🧮 Advanced SQL & Data Modeling
+* 🐍 Python for Data Engineering
+* ⚙️ Automated Data Pipelines
+* 🤖 LLM-powered Analytics
+* 🦆 DuckDB & modern analytical workflows
+* ☁️ Cloud-based data platforms
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhamThuy1410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=PhamThuy1410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&text_color=FFFFFF" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamThuy1410&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamThuy1410&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PhamThuy1410&theme=tokyonight&hide_border=true&background=0D1117)
+<img src="https://streak-stats.demolab.com?user=PhamThuy1410&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
+## 📚 Areas of Interest
 
-- 🔄 **Scaling MessHub** to handle enterprise messaging at scale
-- 🤖 **Advanced Bot Intelligence** - Building smarter automation
-- 📱 **iOS Expansion** - Exploring new mobile possibilities
-- 🌐 **Open Source** - Contributing to the developer community
+```text
+Data Analytics
+Business Intelligence
+Data Visualization
+Data Engineering
+Automation
+AI / LLM Applications
+Open Source
+```
 
 ---
 
-## 🎓 Skills & Expertise
+## 🌐 Connect
 
-| Area | Skills |
-|------|--------|
-| **Architecture** | System Design, Microservices, API Design |
-| **Backend** | Node.js, Python, Express, FastAPI, MongoDB |
-| **Frontend** | React, JavaScript, Responsive Design |
-| **Mobile** | iOS Development, GPS Systems, App Architecture |
-| **DevOps** | Docker, Git, CI/CD, Deployment |
-| **Soft Skills** | Problem Solving, System Thinking, Automation |
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-PhamThuy1410-181717?style=flat-square\&logo=github)](https://github.com/PhamThuy1410)
+
+</div>
 
 ---
 
 ## 💡 Philosophy
 
-> Build tools that solve real problems.  
-> Write code that's maintainable.  
-> Create systems that scale.
+> **Good analytics turns data into understanding.
+> Good systems turn understanding into action.**
 
-I believe in:
-- ✨ Clean, efficient code
-- 🔧 Building practical solutions
-- 🌱 Continuous learning
-- 🤝 Open source collaboration
-- 📈 Scalable architecture
+I build tools that make data:
 
----
-
-## 🌐 Connect With Me
-
-Let's collaborate on something amazing!
-
-[![GitHub](https://img.shields.io/badge/GitHub-PhamThuy1410-181717?style=flat-square&logo=github)](https://github.com/PhamThuy1410)
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
-
----
-
-## 🎯 Open To
-
-- 💼 Full-stack development opportunities
-- 🚀 Messaging platform projects
-- 🤖 Bot development & automation
-- 📱 Mobile app development
-- 🌍 Open source contributions
-- 💬 Technical discussions & collaboration
-
----
-
-## 📈 Recent Activity
-
-```
-🔧 Building scalable messaging systems
-💻 Contributing to open source
-🚀 Exploring new technologies
-📚 Continuous learning & improvement
-```
+**Accessible → Reliable → Automated → Actionable**
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my projects useful, consider giving them a star!
+### ⭐ Build less manually. Analyze more intelligently.
 
-**Made with ❤️ | Last Updated: September 2026**
-
-*"Code is poetry written in a language machines understand."*
+**Made with SQL, Python & curiosity.**
 
 </div>
 
----
-
 <!-- STATS_START -->
-<!-- GitHub stats will be updated here automatically -->
+
+<!-- Automated statistics can be updated here -->
+
 <!-- STATS_END -->
