@@ -1,36 +1,117 @@
-# 👋 Hey there, I'm Pham Thuy
+# 🚀 Pham Thuy
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&lines=Full-Stack+Developer;Chat+Bot+Engineer;JavaScript+%26+Python+Enthusiast;Building+Messaging+Platforms;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+```
+█████████ ██ █████████  ██████████ ███████   ██████████ ██████████ ██    ██
+██     ██ ██ ██        ██    ██    ██     ██ ██           ██        ███   ██
+██     ██ ██ ██        ██    ██    ██     ██ ██           ██        ████  ██
+█████████ ██ █████████ ██    ██    ███████  ██████████    ██        ██ ██ ██
+██        ██        ██ ██    ██    ██       ██           ██        ██  ████
+██        ██ █████████ ██    ██    ██       ██████████ ██████████ ██   ███
+```
+
+## Full-Stack Developer | Messaging Platform Engineer | Bot Creator
+
+> *Coffee in, code out. Sometimes features, sometimes chaos.* ☕💻
+
+![Profile Views](https://komarev.com/ghpvc/?username=PhamThuy1410&color=00FF00&style=flat)
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-I'm a passionate **Full-Stack Developer** from **Vietnam** with a strong focus on:
-- 💬 **Messaging Platforms & Chat Integration** - Building unified communication solutions
-- 🤖 **Bot Development** - Creating intelligent automation tools
-- 📱 **iOS Development** - Crafting mobile experiences
-- ⚡ **JavaScript & Python** - My go-to languages for every challenge
+I'm a passionate **Full-Stack Developer** specializing in:
+- 💬 **Unified Messaging Platforms** - Bringing Zalo, Messenger, Telegram into one inbox
+- 🤖 **Intelligent Bot Development** - Automation that actually works
+- 📱 **iOS Development** - Building smooth mobile experiences
+- 🔧 **System Architecture** - Designing scalable solutions
 
-**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=PhamThuy1410&color=blue&style=flat-square)
+**Location:** Vietnam 🇻🇳  
+**Focus:** Building tools that simplify communication
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Frontend & Web
+### Core Technologies
+```
+Backend:      Node.js • Python • Express • FastAPI
+Frontend:     JavaScript • React • HTML/CSS
+Database:     MongoDB • PostgreSQL
+Mobile:       iOS • JavaScript
+Tools:        Git • Docker • AWS
+```
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-### Backend & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-
-### Mobile & Tools
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+### 💬 **MessHub** - Unified Messaging Platform
+> Multi-channel communication made simple
+
+A comprehensive solution integrating **Zalo, Messenger, Telegram** and other chat platforms into a single, unified inbox.
+
+**What it does:**
+- 🔄 Real-time message synchronization across multiple platforms
+- 👥 Unified contact management
+- 📲 Smart notifications and routing
+- 🔐 Secure end-to-end communication
+
+**Tech:** JavaScript • Node.js • MongoDB • WebSocket  
+🔗 [View Repository](https://github.com/PhamThuy1410/MessHub)
+
+---
+
+### 🤖 **Shopee Affiliate Bot** - Zalo Automation
+> Automated affiliate marketing through Zalo
+
+Intelligent bot automating Shopee affiliate tasks directly through Zalo, streamlining the entire workflow.
+
+**Features:**
+- 🛍️ Shopee API integration
+- 💬 Zalo Bot framework
+- 📊 Analytics & tracking
+- ⚡ Real-time response handling
+
+**Tech:** Python • Zalo API • Shopee API  
+🔗 [View Repository](https://github.com/PhamThuy1410/Shopee-Affiliate-Bot)
+
+---
+
+### 🎵 **Underground Tape** - Music Discovery Platform
+> For the love of underground music
+
+A creative platform for discovering, sharing, and exploring underground music. Versions evolved through V1 to V2.
+
+**Versions:**
+- V1: Initial platform architecture
+- V2: Enhanced UI/UX and features
+
+**Tech:** JavaScript • React • Node.js  
+🔗 [V1](https://github.com/PhamThuy1410/underground-tape) | [V2](https://github.com/PhamThuy1410/underground-tape-v2)
+
+---
+
+### 📍 **iOS Location Spoofer** - GPS Masking Tool
+> Standalone iOS app for location spoofing without jailbreak
+
+Advanced tool for spoofing GPS location seamlessly on iOS devices.
+
+**Capabilities:**
+- ✅ No jailbreak required
+- 🔌 Shadowrocket/Surge/Loon/QX/Stash module support
+- 🎯 Precise location control
+- ⚙️ Standalone app architecture
+
+**Tech:** JavaScript • iOS Native  
+🔗 [View Repository](https://github.com/PhamThuy1410/ios-location-spoofer)
 
 ---
 
@@ -38,124 +119,97 @@ I'm a passionate **Full-Stack Developer** from **Vietnam** with a strong focus o
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhamThuy1410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhamThuy1410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamThuy1410&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamThuy1410&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PhamThuy1410&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=PhamThuy1410&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 What I'm Working On
 
-### 💬 **MessHub** 
-> Unified messaging platform integrating multiple chat channels
-
-**Description:** A comprehensive solution that brings together Zalo, Messenger, Telegram, and other chat platforms into one centralized inbox.
-
-- **Tech Stack:** JavaScript, Node.js, MongoDB
-- **Key Features:** 
-  - Multi-channel message aggregation
-  - Real-time notifications
-  - Unified contact management
-- 🔗 [View Repository](https://github.com/PhamThuy1410/MessHub)
+- 🔄 **Scaling MessHub** to handle enterprise messaging at scale
+- 🤖 **Advanced Bot Intelligence** - Building smarter automation
+- 📱 **iOS Expansion** - Exploring new mobile possibilities
+- 🌐 **Open Source** - Contributing to the developer community
 
 ---
 
-### 🤖 **Shopee-Affiliate-Bot**
-> Intelligent Zalo Bot for Shopee affiliate management
+## 🎓 Skills & Expertise
 
-**Description:** Automated bot that handles Shopee affiliate tasks through Zalo platform, helping streamline affiliate marketing processes.
-
-- **Tech Stack:** Python, Bot Framework
-- **Key Features:**
-  - Zalo Bot integration
-  - Shopee API integration
-  - Automated response handling
-- 🔗 [View Repository](https://github.com/PhamThuy1410/Shopee-Affiliate-Bot)
-
----
-
-### 🎵 **Underground Tape**
-> Music sharing and streaming platform
-
-**Description:** A creative music platform for discovering and sharing underground music.
-
-- **Tech Stack:** JavaScript, Web Technologies
-- **Versions:** V1 & V2 (Latest improvements)
-- 🔗 [View V1](https://github.com/PhamThuy1410/underground-tape) | [View V2](https://github.com/PhamThuy1410/underground-tape-v2)
+| Area | Skills |
+|------|--------|
+| **Architecture** | System Design, Microservices, API Design |
+| **Backend** | Node.js, Python, Express, FastAPI, MongoDB |
+| **Frontend** | React, JavaScript, Responsive Design |
+| **Mobile** | iOS Development, GPS Systems, App Architecture |
+| **DevOps** | Docker, Git, CI/CD, Deployment |
+| **Soft Skills** | Problem Solving, System Thinking, Automation |
 
 ---
 
-### 📍 **iOS Location Spoofer**
-> Standalone app for GPS location spoofing
+## 💡 Philosophy
 
-**Description:** Advanced iOS tool for spoofing GPS location without requiring jailbreak. Includes modules for popular proxy tools.
+> Build tools that solve real problems.  
+> Write code that's maintainable.  
+> Create systems that scale.
 
-- **Tech Stack:** JavaScript, iOS Development
-- **Key Features:**
-  - No jailbreak required
-  - Shadowrocket/Surge/Loon/QX/Stash module support
-  - Standalone app functionality
-- 🔗 [View Repository](https://github.com/PhamThuy1410/ios-location-spoofer)
-
----
-
-## 📈 Activity & Contributions
-
-I'm constantly working on improving my craft. Here's what I'm focused on:
-
-- ✅ Building scalable messaging platforms
-- ✅ Developing intelligent bots and automation tools
-- ✅ Exploring mobile development with iOS
-- ✅ Contributing to open-source projects
-- ✅ Learning new technologies and best practices
+I believe in:
+- ✨ Clean, efficient code
+- 🔧 Building practical solutions
+- 🌱 Continuous learning
+- 🤝 Open source collaboration
+- 📈 Scalable architecture
 
 ---
 
-## 🌟 Key Achievements
+## 🌐 Connect With Me
 
-- 🎯 Created **MessHub** - A unified messaging platform handling multiple chat channels
-- 🤖 Developed **Shopee-Affiliate-Bot** - Automated affiliate management tool
-- 📱 Built iOS solutions with advanced location spoofing capabilities
-- 💡 Maintained multiple versions of projects with continuous improvements
-
----
-
-## 💼 Looking For
-
-I'm interested in opportunities involving:
-- 🚀 Full-stack development projects
-- 💬 Messaging platforms & communication systems
-- 🤖 Bot development & automation
-- 📱 Mobile app development (iOS/Android)
-- 🌍 Collaborative open-source projects
-
----
-
-## 📞 Connect With Me
-
-Let's collaborate and build something amazing together!
+Let's collaborate on something amazing!
 
 [![GitHub](https://img.shields.io/badge/GitHub-PhamThuy1410-181717?style=flat-square&logo=github)](https://github.com/PhamThuy1410)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
 
 ---
 
-## 🎨 About This Profile
+## 🎯 Open To
 
-This GitHub profile was crafted with ❤️ and enhanced with AI to create a visual portfolio that showcases my skills, projects, and contributions. 
+- 💼 Full-stack development opportunities
+- 🚀 Messaging platform projects
+- 🤖 Bot development & automation
+- 📱 Mobile app development
+- 🌍 Open source contributions
+- 💬 Technical discussions & collaboration
 
-> **Pro Tip:** This profile uses GitHub Actions to automatically update stats and metrics daily! 🤖
+---
+
+## 📈 Recent Activity
+
+```
+🔧 Building scalable messaging systems
+💻 Contributing to open source
+🚀 Exploring new technologies
+📚 Continuous learning & improvement
+```
 
 ---
 
 <div align="center">
 
-**Thanks for visiting! Don't forget to ⭐ some of my projects if you find them useful!**
+### ⭐ If you find my projects useful, consider giving them a star!
 
-*Last updated: September 2026 | Maintained with 💙 and automation*
+**Made with ❤️ | Last Updated: September 2026**
+
+*"Code is poetry written in a language machines understand."*
 
 </div>
+
+---
+
+<!-- STATS_START -->
+<!-- GitHub stats will be updated here automatically -->
+<!-- STATS_END -->
