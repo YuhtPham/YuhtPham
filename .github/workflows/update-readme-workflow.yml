@@ -1,0 +1,47 @@
+name: Update README with GitHub Stats
+
+on:
+  schedule:
+    # Chạy mỗi ngày lúc 0h UTC (7h sáng VN)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Cho phép chạy thủ công từ GitHub UI
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Install dependencies
+        run: npm install axios cheerio
+      
+      - name: Generate stats and update README
+        run: node scripts/generate-stats.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          
+          # Chỉ commit nếu có changes
+          if git diff --quiet README.md; then
+            echo "No changes detected"
+          else
+            git add README.md
+            git commit -m "🤖 Update README with latest GitHub stats - $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
