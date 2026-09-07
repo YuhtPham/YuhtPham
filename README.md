@@ -268,7 +268,6 @@ I want the system to help answer:
 
 → Advanced SQL
 → Power BI / DAX
-→ Data Engineering
 → Automated Pipelines
 → AI / LLM Analytics
 → DuckDB
