@@ -20,7 +20,6 @@ class Thuỵ:
         "Business Intelligence",
         "Automation",
         "AI / LLM",
-        "Data Engineering",
     ]
 
     stack = [
