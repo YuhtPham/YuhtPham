@@ -1,14 +1,5 @@
 # Phạm Thuỵ
 
-```text
-██████╗ ██╗  ██╗ █████╗ ███╗   ███╗
-██╔══██╗██║  ██║██╔══██╗████╗ ████║
-██████╔╝███████║███████║██╔████╔██║
-██╔═══╝ ██╔══██║██╔══██║██║╚██╔╝██║
-██║     ██║  ██║██║  ██║██║ ╚═╝ ██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
-```
-
 ### `Data Analyst` · `BI Developer` · `Automation`
 
 > **I turn messy data into clean insights, dashboards & systems that actually do the work.**
