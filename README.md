@@ -2,7 +2,7 @@
 
 # Hey, i'm Yuht 👋
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZkOHFyeDJycHY4aDlpZXM2MGxiaXlvOWp0dWY4eXgwamExdXl1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GbH8vRmrNHdVZhouBt/giphy.gif" width="420" alt="roll-safe"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZkOHFyeDJycHY4aDlpZXM2MGxiaXlvOWp0dWY4eXgwamExdXl1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GbH8vRmrNHdVZhouBt/giphy.gif" width="350" alt="roll-safe"/>
 
 ### Data Analyst · BI · Automation
 
